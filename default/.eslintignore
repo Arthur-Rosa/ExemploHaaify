@@ -1,0 +1,8 @@
+/*.js’
+node_modules
+dist
+jest.config.js
+.prettierignore
+.prettierrc
+prettier.config.js
+settings.json
